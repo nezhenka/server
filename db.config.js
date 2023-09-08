@@ -3,7 +3,7 @@ module.exports = {
     USER: "grady",
     PORT: 5432,
     PASSWORD: "wDPhed7oPcDT5Qvy2Wa0MkA1A8TiGHRa",
-    DB: "nezhenkadb",
+    DB: "grady",
     dialect: "postgres",
     pool: {
         max: 5,
